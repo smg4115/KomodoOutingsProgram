@@ -1,0 +1,11 @@
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/bin/Debug/net8.0/OutingRepository.Repository.deps.json
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/bin/Debug/net8.0/OutingRepository.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/bin/Debug/net8.0/OutingRepository.Repository.pdb
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/obj/Debug/net8.0/OutingRepository.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/obj/Debug/net8.0/OutingRepository.Repository.AssemblyInfoInputs.cache
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/obj/Debug/net8.0/OutingRepository.Repository.AssemblyInfo.cs
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/obj/Debug/net8.0/OutingRepository.Repository.csproj.CoreCompileInputs.cache
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/obj/Debug/net8.0/OutingRepository.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/obj/Debug/net8.0/refint/OutingRepository.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/obj/Debug/net8.0/OutingRepository.Repository.pdb
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoOutingsProgram/OutingRepository_Repository/obj/Debug/net8.0/ref/OutingRepository.Repository.dll

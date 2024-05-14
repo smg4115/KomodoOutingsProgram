@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OutingRepository.Console/1.0.0": {
+        "dependencies": {
+          "OutingRepository.Repository": "1.0.0"
+        },
+        "runtime": {
+          "OutingRepository.Console.dll": {}
+        }
+      },
+      "OutingRepository.Repository/1.0.0": {
+        "runtime": {
+          "OutingRepository.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OutingRepository.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OutingRepository.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
